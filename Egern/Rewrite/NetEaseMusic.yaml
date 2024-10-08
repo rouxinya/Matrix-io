@@ -3,6 +3,10 @@ description: 网易云音乐去广告
 author: RuCu6、Keywos
 
 map_locals:
+  - match: ^https:\/\/interface\d\.music\.163\.com\/eapi\/my\/podcast\/tab\/recommend
+    status_code: 200
+    body: '{}'
+
   - match: ^https?:\/\/interface\d?\.music\.163\.com\/e?api\/(ocpc\/)?ad\/
     status_code: 200
     body: '{}'
