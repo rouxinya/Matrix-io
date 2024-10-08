@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6775
+# 规则统计: 6778
 
 HOST-SUFFIX,000webhost.com,Global
 HOST-SUFFIX,030buy.com,Global
@@ -1766,6 +1766,7 @@ HOST-SUFFIX,f8.com,Global
 HOST-SUFFIX,fa.gov.tw,Global
 HOST-SUFFIX,facebook.br,Global
 HOST-SUFFIX,facebook.com,Global
+HOST-SUFFIX,facebook.de,Global
 HOST-SUFFIX,facebook.design,Global
 HOST-SUFFIX,facebook.hu,Global
 HOST-SUFFIX,facebook.in,Global
@@ -3630,6 +3631,7 @@ HOST-SUFFIX,merit-times.com.tw,Global
 HOST-SUFFIX,meshrep.com,Global
 HOST-SUFFIX,mesotw.com,Global
 HOST-SUFFIX,messenger.com,Global
+HOST-SUFFIX,meta.com,Global
 HOST-SUFFIX,metacafe.com,Global
 HOST-SUFFIX,metafilter.com,Global
 HOST-SUFFIX,metart.com,Global
@@ -5607,6 +5609,7 @@ HOST-SUFFIX,torrentprivacy.com,Global
 HOST-SUFFIX,torrentproject.se,Global
 HOST-SUFFIX,torrenty.org,Global
 HOST-SUFFIX,torrentz.eu,Global
+HOST-SUFFIX,tortoisesvn.net,Global
 HOST-SUFFIX,torvpn.com,Global
 HOST-SUFFIX,tosh.comedycentral.com,Global
 HOST-SUFFIX,totalvpn.com,Global

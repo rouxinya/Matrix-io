@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6775
+# 规则统计: 6778
 
 no_resolve: true
 domain_suffix_set:
@@ -1768,6 +1768,7 @@ domain_suffix_set:
   - fa.gov.tw
   - facebook.br
   - facebook.com
+  - facebook.de
   - facebook.design
   - facebook.hu
   - facebook.in
@@ -3632,6 +3633,7 @@ domain_suffix_set:
   - meshrep.com
   - mesotw.com
   - messenger.com
+  - meta.com
   - metacafe.com
   - metafilter.com
   - metart.com
@@ -5609,6 +5611,7 @@ domain_suffix_set:
   - torrentproject.se
   - torrenty.org
   - torrentz.eu
+  - tortoisesvn.net
   - torvpn.com
   - tosh.comedycentral.com
   - totalvpn.com
