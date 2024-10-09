@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 30819
+# 规则统计: 30838
 
 no_resolve: true
 domain_set:
@@ -1107,6 +1107,7 @@ domain_suffix_set:
   - aes.ac.uk
   - aesworkshops.com
   - aex.com
+  - af-north-1.myhuaweicloud.com
   - af.mil
   - afantibbs.com
   - afao.ac.uk
@@ -1700,6 +1701,7 @@ domain_suffix_set:
   - amoiist.com
   - amourangels.com
   - amp.dev
+  - amplifi.com
   - amplifyapp.com
   - amplifyframework.com
   - amplitude.com
@@ -6313,6 +6315,7 @@ domain_suffix_set:
   - classics.ac.uk
   - classymomsex.com
   - claude.ai
+  - claudeusercontent.com
   - clb.org.hk
   - clc-london.ac.uk
   - clco.cc
@@ -9553,6 +9556,7 @@ domain_suffix_set:
   - facebook.ca
   - facebook.cc
   - facebook.com
+  - facebook.de
   - facebook.design
   - facebook.hu
   - facebook.in
@@ -9928,8 +9932,10 @@ domain_suffix_set:
   - fastindianporn.com
   - fastlane.ci
   - fastlane.tools
+  - fastly-edge.com
   - fastly-terrarium.com
   - fastly.com
+  - fastly.io
   - fastly.net
   - fastlylabs.com
   - fastlylb.net
@@ -10799,6 +10805,7 @@ domain_suffix_set:
   - frontiersin.org
   - frontiersofoncology.ac.uk
   - frontlinedefenders.org
+  - frontrow.com
   - froogle.com
   - frootvpn.com
   - frostbite.com
@@ -11422,6 +11429,7 @@ domain_suffix_set:
   - github.io
   - githubapp.com
   - githubassets.com
+  - githubcopilot.com
   - githubhackathon.com
   - githubnext.com
   - githubpreview.dev
@@ -13369,6 +13377,7 @@ domain_suffix_set:
   - httpsfacebook.com
   - httpwwwfacebook.com
   - htvncdn.net
+  - htx.com
   - htyj-bj.com
   - hu1u.com
   - hua-yue.net
@@ -18408,6 +18417,7 @@ domain_suffix_set:
   - mxshm.site
   - my-enema.com
   - my-formosa.com
+  - my-kualalumpur-1.myhuaweicloud.com
   - my-magazine.me
   - my-private-network.co.uk
   - my-proxy.com
@@ -23011,6 +23021,7 @@ domain_suffix_set:
   - rti.tw
   - rtings.com
   - rtycminnesota.org
+  - ru-moscow-1.myhuaweicloud.com
   - rua-project.ac.uk
   - ruanyifeng.com
   - ruby-lang.org
@@ -24070,6 +24081,7 @@ domain_suffix_set:
   - signal.org
   - signalbar.com
   - signalprocessingsociety.org
+  - signalr.net
   - signalusers.org
   - sihe.ac.uk
   - sijihuisuo.club
@@ -26433,6 +26445,7 @@ domain_suffix_set:
   - torrenty.org
   - torrentz.eu
   - torrindex.net
+  - tortoisesvn.net
   - torvpn.com
   - tospo-keiba.jp
   - totalmateria.com
@@ -26987,6 +27000,7 @@ domain_suffix_set:
   - ubisoftconnect.com
   - ublock.org
   - ubn.ac.uk
+  - ubncloud.com
   - ubnt.com
   - ubnw.net
   - ubuntu-touch.io
@@ -27084,9 +27098,11 @@ domain_suffix_set:
   - uhsl.ac.uk
   - uhtube.me
   - uhub.com
+  - ui.com
   - uighur.nl
   - uighurbiz.net
   - uiporn.com
+  - uisp.com
   - ujapanesesex.com
   - ujizzcn.com
   - uk-cdi.ac.uk
@@ -28057,6 +28073,7 @@ domain_suffix_set:
   - vk.design
   - vk.link
   - vk.me
+  - vk.ru
   - vkcache.com
   - vkgo.app
   - vklive.app
@@ -28849,6 +28866,7 @@ domain_suffix_set:
   - wifevideos.net
   - wifewantstoplay.com
   - wifi-mx.com
+  - wifiman.com
   - wigan-leigh.ac.uk
   - wigs.ac.uk
   - wigstoncollege.ac.uk
@@ -30514,6 +30532,7 @@ domain_suffix_set:
   - zencoder.com
   - zendesk.com
   - zengjinyan.org
+  - zenlesszonezero.com
   - zenmate.com
   - zenodo.org
   - zeplerinstitute.ac.uk
