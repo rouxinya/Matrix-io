@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
-      SING_BOX_VERSION: 1.10.0-beta.11
+      SING_BOX_VERSION: 1.10.0-beta.12
 
     steps: 
     - name: Checkout Repository
@@ -174,7 +174,7 @@ jobs:
           if [ -f "$file" ]; then
             temp_file=$(mktemp)     # 创建临时文件存储 JSON 内容
             echo '{' > "$temp_file" # 初始化 JSON 结构
-            echo '  "version": 1,' >> "$temp_file"
+            echo '  "version": 2,' >> "$temp_file"
             echo '  "rules": [' >> "$temp_file"
             # 处理 DOMAIN 规则
             domains=$(grep -E '^DOMAIN,' "$file" | cut -d, -f2)
